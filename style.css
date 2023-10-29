@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    text-align: center;
+    color: brown;
+}
+p {
+    text-align: center;
+    border: 1px;
+    padding: 1 auto;
+
+}
+img {
+    border-image: fill;
+    width: 500;
+
+}
+
+link {
+    text-decoration: none;
+
+}
